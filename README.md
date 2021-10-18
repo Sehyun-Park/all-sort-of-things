@@ -1,2 +1,12 @@
 # all-sort-of-things
-personal project
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C9.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C10.PNG)
+![](https://github.com/Sehyun-Park/all-sort-of-things/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C11.PNG)
