@@ -1,0 +1,106 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@font-face {
+    font-family: 'GmarketSansLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+section#write {
+    height: 770px;
+    width: 1920px;
+    background-image: url(../images/cat.png);
+    background-size: 43%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: grid;
+}	
+table {
+	font-family: 'GmarketSansMedium';
+    margin: 245px auto;
+    margin-bottom: 13px;
+    border-collapse: collapse;
+}
+
+tr {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    height: 80px;
+}
+th {
+	vertical-align: top;
+    padding: 10px 80px 0 0;
+    text-align: left;
+}
+td {
+	padding: 10px;
+	vertical-align: top;
+}
+input[type=text] {
+	font-family: 'GmarketSansLight';
+    border: 1px solid #8C8C8C;
+    width: 750px;
+    height: 20px;
+    border-radius: 4px;
+}
+#write #name{
+	 border: none;
+	 background-color: rgba(0,0,0,0%);
+}
+#write textarea {
+	font-family: 'GmarketSansLight';
+    border: 1px solid #8C8C8C;
+	resize: none;
+    height: 200px;
+    width: 750px;
+    border-radius: 4px;
+}
+#button input[type=submit], #button input[type=button]{
+	width: 140px;
+	height: 33px;
+	background-color: #121212;
+	color: white;
+	border-radius: 0;
+	border: none;
+	font-family: 'GmarketSansBold';
+	font-weight: none;
+	line-height: 1em;
+}
+#button input[type=submit]:hover, #button input[type=button]:hover{
+	background-color: white;
+	color: black;
+	border: 3px solid black;
+}
+div#button {
+    text-align: right;
+    width: 1415px;
+}
+section#galaryWrite {
+    height: 770px;
+    width: 1920px;
+    display: grid;
+}
+section#galaryWrite img {
+	width: 200px;
+	height: 200px;
+}
+section#galaryWrite table {
+	margin: 223px auto 20px;
+}
+section#galaryWrite #name{
+	 border: none;
+	 background-color: rgba(0,0,0,0%);
+}
