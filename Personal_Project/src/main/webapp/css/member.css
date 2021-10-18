@@ -1,0 +1,227 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+@font-face {
+    font-family: 'GmarketSansLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#wrap {
+	margin: 0 auto;
+	height: 900px;
+	font-family:'GmarketSansBold';
+	width: 1920px;
+}
+h2{
+	display: inline;
+    float: left;
+    margin: 30px;
+    width: 950px;
+    font-family: 'GmarketSansBold';
+}
+#join {
+	float: left;
+}
+#join form {
+	width: 950px;
+	height: 760px;
+	margin: 0;
+}
+#join form th {
+	width: 180px;
+	text-align: left;
+	font-size: 18px;
+	font-weight: normal;
+}
+#join td{
+	width: 575px;
+}
+#join input {
+	border: 1px solid #8C8C8C;
+	width: 260px;
+	height: 30px;
+	border-radius: 4px;
+	margin: 5px 15px 5px 0;
+}
+#join input[type=text], #join input[type=email] {
+	font-family: GmarketSansMedium;
+}
+#join #postcode {
+	width: 115px;
+	margin-right: 15px;
+}
+#join #detailAddress{
+	width: 397px;
+}
+#join #extraAddress{
+	width: 397px;
+}
+#join input[type=button] {
+	width: 140px;
+	height: 33px;
+	background-color: #121212;
+	color: white;
+	border-radius: 0;
+	border: none;
+    font-family: 'GmarketSansMedium';
+}
+#join input[type=submit], #join input[type=reset] {
+	width: 140px;
+	height: 33px;
+	background-color: #121212;
+	color: white;
+	border-radius: 0;
+	border: none;
+    font-family: 'GmarketSansMedium';
+}
+
+#join table {
+	padding: 100px 0px 130px 180px;
+	margin: auto;
+}
+#welcome {
+	display: flex;
+    height: 850px;
+    background-image: url("../images/cauliflower.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-position-y: 240px;
+    background-position-x: -100px;
+    background-size: 700px;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+    font-size: 100px;
+}
+#welcome  p{
+	padding-bottom: 50px;
+}
+
+#contact a {
+	font-family: GmarketSansLight;
+}
+
+/* login */
+
+#login {
+	height: 854px;
+}
+#login table {
+    margin: 44px auto;
+	display: flex;
+    background-image: url(../images/butterfly.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0;
+    height: 700px;
+    width: 1920px;
+    clear: left;
+    align-items: center;
+    justify-content: center;
+}
+#login td {
+	width: auto;
+    text-align: center;
+}
+#login th {
+    text-align: left;
+    padding-right: 17px;
+}
+
+/* update */
+#update {
+    height: 830px;
+}
+#update form {
+	display: flex;
+    width: 1920px;
+    height: 610px;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+#update form th {
+	width: 180px;
+	text-align: left;
+	font-size: 18px;
+	font-weight: normal;
+    font-family: 'GmarketSansBold';
+}
+#update td{
+	width: 575px;
+}
+#update input {
+	border: 1px solid #8C8C8C;
+	width: 260px;
+	height: 30px;
+	border-radius: 4px;
+	margin: 5px 15px 5px 0;
+}
+#update input[type=text], #update input[type=email] {
+	font-family: GmarketSansMedium;
+}
+#update #postcode {
+	width: 115px;
+	margin-right: 15px;
+}
+#update #detailAddress{
+	width: 397px;
+}
+#update #extraAddress{
+	width: 397px;
+}
+#update input[type=button] {
+	width: 140px;
+	height: 33px;
+	background-color: #121212;
+	color: white;
+	border-radius: 0;
+	border: none;
+    font-family: 'GmarketSansMedium';
+}
+#update input[type=submit], #update input[type=reset] {
+	width: 140px;
+	height: 33px;
+	background-color: #121212;
+	color: white;
+	border-radius: 0;
+	border: none;
+    font-family: 'GmarketSansMedium';
+}
+#idcheck {
+	font-family: 'GmarketSansMedium';
+	width: 80%;
+	margin: 0 auto;
+	display: block;
+}
+#idcheck input[type=button], input[type=submit] {
+	width: 140px;
+	height: 33px;
+	background-color: #121212;
+	color: white;
+	border-radius: 0;
+	border: none;
+    font-family: 'GmarketSansMedium';
+	margin-top: 10px;
+}
+
+#idcheck input[type=text] {
+	border: 1px solid #8C8C8C;
+	width: 80px;
+	height: 25px;
+	border-radius: 4px;
+	margin: 5px 15px 5px 0;
+}
